@@ -1,4 +1,5 @@
 # 4-2_DBMS_assignment
+4학년 2학기 [데이터베이스시스템및응용] 수업에서 진행한 한 학기 프로젝트 과제
 ## Personal Calendar
 회원가입, 로그인, 일정 추가/수정/삭제, 일정 검색이 가능한 Personal Calendar를 구현하였다. <br>
 UI는 java로 구현하였고, Postgresql로 데이터베이스를 관리한다.
